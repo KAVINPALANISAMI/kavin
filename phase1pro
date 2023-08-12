@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<head>
+    <title>
+        King hotel
+    </title>
+   
+</head>
+<body>
+   <h1 style="color: rgb(235, 139, 21);"> King</h1>
+  <!--<img src="\download.jpeg" alt="HIIII Pic"  width="400" height="400" >-->
+   <p style="color: rgb(49, 235, 115);"> A<sub>2</sub></p>
+   <hr style="color :aqua;">
+</body>
+<table border="3" style="color: azure;" bgcolor="2ff">
+    <th style="color: wheat;"><h1>Gostie</h1>
+        <tr> 
+            <td><h1>MANDA KASAYAM </h1></td>
+            <td><h1>ARRA LUSU</h1></td>
+            <td><h1>Lusu</h1> </td>
+            <td><h1>DUMONGOLLI</h1></td>
+        </tr>
+        <tr style="color: aquamarine;"> 
+            <td><h1>good </h1></td>
+            <td><h1>Gostie</h1></td>
+            <td><h1>Lusu</h1> </td>
+            <td><h1>Paitium</h1></td>
+        </tr>
+    </th>
+</table>
